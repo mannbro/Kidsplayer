@@ -1,5 +1,5 @@
-# Music Player for Toddler using Raspberry Pi Pico and DFPlayer
-This is a simple mp3 player with a screenless UI for Toddlers. It uses a Raspberry Pi Pico, a DFPlayer mp3-player module, some push buttons and leds.
+# Screenless MP3 Music Player for Toddler with Raspberry Pi Pico and DFPlayer
+This is a simple mp3 player with a screenless UI for Toddlers. It uses a Raspberry Pi Pico, a DFPlayer MP3-player module, some push buttons and LEDs.
 
 In order to drive the DFPlayer MP3 player, it uses the drivers that are located here: https://github.com/mannbro/PicoDFPlayer
 
